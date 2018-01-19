@@ -1,6 +1,6 @@
-Karolis is cool.
+I'm a paragraph.
 
-Karolis is very cool.
+I'm another paragraph.
 
 I'm *italic*. I'm also _italic_.
 
